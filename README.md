@@ -8,7 +8,6 @@ This project tests the **Chat Sinhala transliteration** accuracy of [pixelssuite
 ## Project Structure
 
 ```
-test_automation/
 ├── test_automation.py              # Main Playwright automation script
 ├── README.md                       # This file
 └── Assignment 1 - Test cases.xlsx  # Test cases with results
